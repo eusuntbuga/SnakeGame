@@ -1,5 +1,5 @@
 Proiectul se numeste Snakegame ceia ce reprezinta un joc cu un sarpe ce se deplaseaza pe un teren.
-Regurile sunt ca acesta sa nu iasa din suprafata terenului si sa nu se joveasca de el isusi.
+Regurile sunt ca acesta sa nu iasa din suprafata terenului si sa nu se joveasca de el.
 
 1. `struct Point` (în `point.hpp`):
    - Descriere: Structura `Point` reprezintă un punct în spațiu bidimensional. Aceasta are două membre de date: `x` și `y`, care sunt coordonatele punctului.
